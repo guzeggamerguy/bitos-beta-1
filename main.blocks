@@ -1,0 +1,61 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="2ItD^YO;[m2FBgf:@QV*" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="w!}Q(+%B?2Qm[Z7o0$C0"><value name="number"><shadow type="math_number" id="tp79l3ixUR5laN.]*q-Q"><field name="NUM">0.1</field></shadow></value><next><block type="device_show_leds" id="K;Mh?@?R[00GFpr@sGoK"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="ed?==Bh3I/f.jR68UHb7"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="r%48@s#m~(Nblug-f}e|"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="nW4eD.$}Jw8N*;N($]2R"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_clear_display" id="X,:sWk`jNjz*L|%}vqKz"><next><block type="device_print_message" id="BYCTP080l_*Q(]mag90c"><value name="text"><shadow type="text" id="xP,Pt%dA@4h{Rw%:JNG;"><field name="TEXT">BitOS beta 1</field></shadow></value><next><block type="device_show_leds" id="?g:aszAa|0|IY.T_qi6W"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="Y]LzfDCkSIjS$oo{wVg:"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . . . # . 
+        . . # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="BwHNGY8+94mI@J3O!%p`"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_clear_display" id="M{rv`Smu0v`2Vg6%N~2U"><next><block type="device_print_message" id="fxSs73`~{9Ht_Rr?X;@0"><value name="text"><shadow type="text" id="NX0`r1!K;4Ww?0A-RJ5T"><field name="TEXT">NO OPERATING SYSTEM DETECTED</field></shadow></value><next><block type="device_show_leds" id="kR,i#1eH/l=pvk{%_a9y"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="|}OuT=fe%hgp-{vgNbkN"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . . . # . 
+        . . # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="=#(Rn/*0g_Q@sDIF6f!a"><field name="LEDS">`
+        # # # # . 
+        # . . . # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_clear_display" id="W`tI6-0dkCqkyYT.N-|u"><next><block type="device_print_message" id="~3d3xFz-eZw*ngjW:vvo"><value name="text"><shadow type="text" id="rJ`_aRo_c:qSNr`$mqBt"><field name="TEXT">Starting MBPOS</field></shadow></value><next><block type="device_print_message" id="^WwlPC5EE2JmDfzXdgm5"><value name="text"><shadow type="text" id="_Jjl7}386_8+!qjq7`b4"><field name="TEXT">@\</field></shadow></value><next><block type="device_print_message" id="z@zEmyo]OBXnE6?A+,z%"><value name="text"><shadow type="text" id="M9#/zC.Cv@q$d$q=lkqR"><field name="TEXT">@\(A/B)</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
